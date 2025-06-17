@@ -7,5 +7,5 @@ marketplace_ref: {
   listing: "covid19-v2"
   version: "3.0.0"
   models: ["covid_v2"]
-  override_constant: CONNECTION_NAME { value:"lookerdata" }
+  override_constant: CONNECTION_NAME { value:"looker_demo" }
 }
